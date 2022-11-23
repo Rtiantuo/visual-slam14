@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tt/code_package/slam_ws/slambook2/ch7/orb_self.cpp
+opencv2/opencv.hpp
+-
+string
+-
+nmmintrin.h
+-
+chrono
+-
+
